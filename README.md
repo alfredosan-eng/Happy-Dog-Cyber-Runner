@@ -1,6 +1,6 @@
 # 🚀 🐕 Happy Dog — Cyber Runner
 
-[![Abrir HappyDog](https://img.shields.io/badge/¡ABRIR_HAPPY_DOG!-f59e0b?style=for-the-badge&logo=googlechrome&logoColor=white)](https://alfredosan-eng.github.io/TU-REPOSITORIO/HappyDog.html)
+[![Abrir HappyDog Cyber Runner](https://img.shields.io/badge/¡ABRIR_HAPPY_DOG!-f59e0b?style=for-the-badge&logo=googlechrome&logoColor=white)](https://alfredosan-eng.github.io/Happy-Dog-Cyber-Runner/HappyDog.html)
 
 > **Instrucciones:** Haz clic en el botón superior para ejecutar la simulación interactiva en tu navegador.
 
