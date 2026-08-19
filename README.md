@@ -1,3 +1,10 @@
+# 🚀 🐕 Happy Dog — Cyber Runner
+
+[![Abrir HappyDog](https://img.shields.io/badge/¡ABRIR_HAPPY_DOG!-f59e0b?style=for-the-badge&logo=googlechrome&logoColor=white)](https://alfredosan-eng.github.io/TU-REPOSITORIO/HappyDog.html)
+
+> **Instrucciones:** Haz clic en el botón superior para ejecutar la simulación interactiva en tu navegador.
+
+
 🐕 Happy Dog — Cyber Runner
 Un juego de runner cyberpunk donde un perro corre por las calles de una ciudad neón, atrapa huesos y esquiva obstáculos. Sin instalación, sin antivirus, funciona en cualquier PC o Mac.
 
